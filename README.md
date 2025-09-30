@@ -1,7 +1,7 @@
 
 # Universal Swapper
 
-Universal Swapper is a smart contract and script toolkit for performing token swaps on Ethereum and compatible chains using Uniswap's Universal Router and Permit2. It enables gas-efficient, permissioned swaps with batch permit support, fee handling, and flexible architecture for backend or user-driven execution.
+Universal Swapper is a smart contract and script toolkit for performing gassless swaps on Ethereum and compatible chains using Uniswap's Universal Router and Permit2. It enables gas-efficient, permissioned swaps with batch permit support, fee handling, and flexible architecture for backend or user-driven execution.
 
 ## Features
 - **Universal Router Integration**: Swap any ERC20 tokens using Uniswap's Universal Router.
